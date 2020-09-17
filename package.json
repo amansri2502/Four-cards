@@ -1,0 +1,14 @@
+{
+  "name": "four-cards",
+  "version": "1.0.0",
+  "description": "front-end mentor",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss styles.css"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
